@@ -1,0 +1,12 @@
+ Volume in drive C is Acer
+ Volume Serial Number is DEFD-BDE0
+
+ Directory of C:\Ranjan\work\Jenkins\Project
+
+2019-05-20  04:13 PM    <DIR>          .
+2019-05-20  04:13 PM    <DIR>          ..
+2019-05-20  01:08 PM               673 hello.class
+2019-05-19  12:19 AM               143 hello.java
+2019-05-20  04:13 PM                 0 test1.txt
+               3 File(s)            816 bytes
+               2 Dir(s)  919,582,650,368 bytes free
